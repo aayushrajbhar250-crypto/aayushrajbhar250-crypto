@@ -19,8 +19,7 @@
 
 ---
 
-### 👨‍💻 What I Do
-
+### 🌱 What I’m Learning & Building
 - ⚙️ Build **scalable backend systems** using Java & Spring Boot  
 - 🔐 Implement **secure authentication & authorization** with Spring Security & JWT  
 - 🗄️ Work with **databases** using JPA / Hibernate  
