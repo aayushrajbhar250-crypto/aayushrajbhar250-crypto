@@ -15,7 +15,7 @@
 - 💻 Aspiring **Java Backend Developer** passionate about scalable systems  
 - ⚡ Strong foundation in **Spring Boot, REST APIs & Microservices**  
 - 🧠 Learning and building **Microservices-based applications**  
-- 🤖 Currently learning **Spring AI**  
+  
 
 ---
 
